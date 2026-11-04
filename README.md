@@ -1,4 +1,4 @@
-# Carnet météo
+# Carnet météo de Nicolas
 
 Outil en ligne de commande pour enregistrer des relevés de température.
 
