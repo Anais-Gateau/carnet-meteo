@@ -1,4 +1,5 @@
-# Carnet météo de Nicolas
+# Carnet météo régional
+
 
 Outil en ligne de commande pour enregistrer des relevés de température.
 
